@@ -6,10 +6,11 @@
 body
 {
    background-image:url(image.jpg);
+   background-repeat: no-repest;
    background-position: center;
     background-size: cover;
     height: auto;
-    background-repeat: no-repest;
+   
     
 }
 
